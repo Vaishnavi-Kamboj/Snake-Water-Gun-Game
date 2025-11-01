@@ -33,6 +33,6 @@ python game.py
 
 👩‍💻 Author
 
-Vaishnavi Kamboj
+Vaishnavi Kamboj<br>
 Made with 💻 and ☕ while learning Python!
 
